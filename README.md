@@ -22,6 +22,27 @@
 
 ### Блок-схема
 
-<img width="600" height="700" alt="Блок-схема" src="ССЫЛКА_НА_ТВОЮ_БЛОК_СХЕМУ" />
+<img width="662" height="732" alt="Диаграмма без названия drawio (7)" src="https://github.com/user-attachments/assets/c4c7b323-b7f3-472f-b08a-0a979b5433f8" />
 
 ## 2. Реализация программы
+
+Исходный код программы: [Source.c](Source.c)
+
+## 3. Результаты работы программы
+
+**Пример 1: Расчет площади**
+
+<img width="465" height="233" alt="image" src="https://github.com/user-attachments/assets/0a29bb07-3a17-4fb3-81d9-e2bfc563ae23" />
+
+**Пример 2: Рисование ромба**
+
+<img width="483" height="418" alt="image" src="https://github.com/user-attachments/assets/c6cc7cba-2997-4387-8588-cd86cd03a0e8" />
+
+**Пример 2: Вывести определение фигуры**
+
+<img width="777" height="214" alt="image" src="https://github.com/user-attachments/assets/ce806d69-8c24-4cd7-8d5e-64644f7aec19" />
+
+## 4. Информация о разработчике
+
+Носырева Элла 
+БОТИ-261
